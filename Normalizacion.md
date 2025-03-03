@@ -2,7 +2,7 @@
 
 ### 🔍Descipción
 La creación del modelo tiene como objetivo organizar, gestionar y representar de manera clara las relaciones 
-entre los elementos que componen un sistema de pedidos, ventas y pagos. Un sistema eficiente y bien estructurado ayuda a garantizar el correcto seguimiento de los procesos desde el pedido de un cliente hasta el pago final. Este modelo puede ser utilizado por una base de datos relacionales para gestionar de forma sistemática la información de
+entre los elementos que componen un sistema de pedidos, ventas y pagos. Un sistema eficiente y bien estructurado ayuda a garantizar el correcto seguimiento de los procesos desde el pedido de un cliente hasta el pago final. Este modelo puede ser utilizado por una base de datos relacionales para gestionar de forma sistemática la información de pedidos, ventas y transacciones financieras.
 
 
 ## 📁Normalización del modelo relacional (FN1)
